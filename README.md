@@ -1,3 +1,9 @@
+Assignment 0
+Kimberly Chu
+Dustin Yu
+COGS 121 SP14
+
+
 Instagram Example
 ===========
 
