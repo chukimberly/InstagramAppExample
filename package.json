@@ -1,5 +1,5 @@
 {
-  "name": "mywebapp",
+  "name": "cogs121ass0dd",
   "version": "0.0.1",
   "author": "Kimberly Chu and Dustin Yu",
   "scripts": {
@@ -13,6 +13,8 @@
     "passport": "*",
     "passport-facebook": "*",
     "passport-twitter": "*",
+    "superagent": "0.14.6",
+    "consolidate": "0.9.1",
     "dotenv": "*",
     "instagram-node-lib": "*"
   },
